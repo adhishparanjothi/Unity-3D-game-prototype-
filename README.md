@@ -3,3 +3,4 @@ The goal of this repository is to set up the basic gameplay for this prototype. 
 The starter files are extracted from the Unity Junior programmer create with code-2 Unit-3, from Unity.learn.com
 
 https://play.unity.com/mg/other/p3_webgl - link to game at play.unity.com
+![Alt text](relative/path/to/img.jpg?raw=true "Screenshot (64).png")
