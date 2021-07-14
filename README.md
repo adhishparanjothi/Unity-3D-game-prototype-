@@ -4,3 +4,4 @@ The starter files are extracted from the Unity Junior programmer create with cod
 
 https://play.unity.com/mg/other/p3_webgl - link to game at play.unity.com
 ![Screenshot (64).png](relative/path/to/img.jpg?raw=true "Screenshot (64).png")
+https://github.com/adhishparanjothi/Unity-3D-game-prototype-/blob/updated-file/Screenshot%20(64).png
